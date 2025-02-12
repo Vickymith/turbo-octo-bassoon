@@ -1,4 +1,5 @@
 The following are the questions of the assignment.
+
 Give the code in C programGet a number from user and add 2 to that number and print the result. 
 
 Get a number from user and subtract 5 to that number and print the result.
