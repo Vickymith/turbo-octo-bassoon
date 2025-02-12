@@ -33,7 +33,8 @@ Input: 9561 Output 9516.
 Input: 3859 Output: 3895.
 
 Get a four-digit number from user and only reverse the last two digits of the number, then print the number.
-Input: 9561 Output 5961. Input: 3859 Output: 8359
+Input: 9561 Output 5961. 
+Input: 3859 Output: 8359
 
 Get a two-digit number from user and make the one’s digit
 Input: 95 Output 90. 
