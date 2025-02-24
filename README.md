@@ -64,21 +64,28 @@ Get a number from user and subtract 5 from that number if the number is odd, the
 
 Get a number from user and subtract 5 from that number if the number’s ten’s position digit is odd, then print the result. Do not use “if”.
 
-
  Input: 685 Output 685. 
+
  Input: 89172 Output: 89167
+
 Get a two digit number from user and subtract 5 from that number if the sum of the digits of the number is odd, then print the result. Do not use “if”.
 
 Input: 95 Output 95. 
+
 Input: 72 Output: 67
+
 Get a three-digit number from user and subtract 5 from that number if one’s digit number and 100’s digit number are same, then print the result. Do not use “if”.
 
 Input: 595 Output 590.
+
 Input: 372 Output: 372
+
 Get a four-digit number from user and subtract 5 from that number if ten’s digit position and 100’s digit position is same, then print the result. Do not use “if”.
 
 Input: 7595 Output 7595. 
+
 Input: 3772 Output: 3767
+
 Get a three-digit number from user. If the sum of the digits is 10 then print “Success”, otherwise print “Failure”.
 
 Get a three-digit number from user. If the sum of the one’s digit and hundred’s digit is less than 10, then print “Success”, otherwise print “Failure”.
@@ -88,26 +95,39 @@ Get a three-digit number from user. If the sum of the one’s digit and hundred�
 Get a four-digit number from user. If the sum of the ten’s digit and hundred’s digit is greater than 10, then print “Success”, otherwise print “Failure”.
 
 Get a four-digit number from user. If the sum of the ten’s digit and hundred’s digit is equal to 10, and one of the digits is more than 7 then print “Success”, otherwise print “Failure”.
+
 Input: 4649 – Output: Failure.
+
 Input: 9286 - Output: Success.
 
 Get a three-digit number from user. If the sum of the digits is less than 10, then print the sum, otherwise add the digits of the sum and print the sum. Note: The result should be always single digit only.
+
 Input: 123 – Output: 6
+
 Input: 149 - Output: 5 (149:1+4+9 = 14: 1+4 = 5)
+
 Input: 991 - Output: 1 (991: 9+9+1 = 19: 1+9 = 10: 1+0 = 1)
 
 Get two 2-digit numbers from user. If the sum of the numbers is less than 100, then print the sum, otherwise print the difference.
+
 Input: 56 78 – Output: 22
+
 Input: 14 65 - Output: 79
 
 Get two 2-digit numbers from user. Print the sum of digits of the biggest number.
+
 Input: 56 78 – Output: 15
+
 Input: 14 65 - Output: 11
 
 Get two 3-digit numbers from user. Print the difference between the one’s digit and hundred’s digit of the number whose ten’s digit is bigger than the other number’s ten’s digit.
+
 Input: 856 978 – Output: 1
+
 Input: 128 365 - Output: 2
 
 Add the one’s digit and hundred’s digit of both the numbers. Print the sum of all the digits of the number whose sum of one’s and hundred’s digits is bigger.
+
 Input: 856 978 – Output: 24
+
 Input: 128 365 - Output: 11
